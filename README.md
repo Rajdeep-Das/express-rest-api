@@ -19,3 +19,7 @@ The idea behind the project structure's two folders (`common` and `users`) is 
 ### Other Best Practise
 
 https://www.toptal.com/nodejs/secure-rest-api-in-nodejs
+
+### Online Utility
+
+https://euangoddard.github.io/clipboard2markdown/
